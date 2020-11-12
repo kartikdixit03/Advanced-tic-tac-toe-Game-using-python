@@ -10,7 +10,7 @@ root.configure(background='cadet blue')
 Tops = Frame(root, bg='cadet blue', pady=2, width=1350, height=100, relief=RIDGE)
 Tops.grid(row=0, column=0)
 
-lblTitle = Label(Tops, font=('arial', 25, 'bold'), text="ADVANCED TIC TAC TOE GAME BY KARTIK AND DIVYA", bd=21,
+lblTitle = Label(Tops, font=('arial', 25, 'bold'), text="ADVANCED TIC TAC TOE GAME BY KARTIK, DIVYA AND AMAN", bd=21,
                  bg='cadet blue',
                  fg='cornsilk', justify=CENTER)
 lblTitle.grid(row=0, column=0)
